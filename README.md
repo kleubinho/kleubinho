@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Levi, Backend developer from <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  I'm Kleber, Backend developer from <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
@@ -15,7 +15,7 @@
 - 🥅 2021 Goals: Learn, Work, Improve.
 - 👯 I’m looking to collaborate with other developers and get a Job! 
 - 🚵 Fun fact: I love play videogames.
-- 🖥️ I'm focusing on study JS technologies 
+- 🖥️ I'm focusing on study Java technologies 
 
 
 ### Where to find me:
