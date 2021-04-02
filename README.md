@@ -23,7 +23,7 @@
 </a>
 
 <a href="">
-  <code><img alt="My e-mail" width="32" src="https://br.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly9sb2dpbi55YWhvby5jb20v&guce_referrer_sig=AQAAAD0Y1aO-Lum4stGqsvkxzUcM2rhUNR5Ahy0CDg-N_kk0ak7pGfqeDBAAo-BVlTpzRvQwCamPSrhxqtOet2o284JxKv9pMSGoUDeGgKf34pjtx-8zniYJzOk_yBbYRLv_dYNl_MaFTZSXDB3glDZ_2OeUa3fgWOGK4TIj3pFjixGK" /></code>
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/179/179345.svg?token=exp=1617325395~hmac=7557fbc0c9eefaf13d2977f75faaa80f" /></code>
 </a>
 <br>
 
