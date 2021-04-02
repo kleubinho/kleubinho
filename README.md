@@ -22,7 +22,7 @@
 
 </a>
 
-<a href="felix_kleber@yahoo.com.br">
+<a href="mailto:felix_kleber@yahoo.com.br">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/vstatic/svg/179/179345.svg?token=exp=1617325395~hmac=7557fbc0c9eefaf13d2977f75faaa80f" /></code>
 </a>
 <br>
