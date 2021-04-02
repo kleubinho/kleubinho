@@ -1,16 +1,67 @@
-### Hi there 👋
+# Hi there! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<!--
-**kleubinho/kleubinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="40%" src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" alt="Code" />
 
-Here are some ideas to get you started:
+### Welcome to my page!
+<p>
+  I'm Levi, Backend developer from <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <b>Brazil</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm a Studant, Athlet, Developer and I'm 16!
+
+- 🔭 I’m currently working to improve my programming experience!
+- 🌱 I’m learning about web development focused on Back-end. 
+- 🥅 2021 Goals: Learn, Work, Improve.
+- 👯 I’m looking to collaborate with other developers and get a Job! 
+- 🚵 Fun fact: I love biking.
+- 🖥️ I'm focusing on study JS technologies 
+
+
+### Where to find me:
+
+<a href="https://www.linkedin.com/in/levi-ciarrocchi-1081251a6/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="felix_kleber@yahoo.com.br">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+<br>
+
+## My Development Stack
+
+**Application and Data**
+
+<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-dyaok&psig=AOvVaw0t6k2P6Gpv7caQ3VE_xtPt&ust=1617410486806000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCm3N6p3u8CFQAAAAAdAAAAABAD
+" alt="Java"/></code>
+
+
+**DevOps**
+
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+**Business Tools**
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+
+<br/>
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical" alt="Levis44's Github Stats"/>
+</p>
+
+
+
+<br/>
+
+
+
+
+
