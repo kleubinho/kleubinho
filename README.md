@@ -13,7 +13,7 @@
 - 🔭 Atualmente, estou trabalhando para melhorar minha experiência de programação!
 - 🌱 Estou aprendendo a desenvolver em java com foco em me especializar.
 - 🥅 Objetivos para 2021: Aprender, Melhorar.
-- 👯 Estou estudando e me dedicando aos estudos para que ano que vem consiga um empregp! 
+- 👯 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
 - 🚵 Curiosidade: adoro jogar videogame.
 - 🖥️ Estou me concentrando em estudar a linguagem java.
 
