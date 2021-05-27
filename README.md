@@ -1,4 +1,4 @@
-# Bem vindo :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Bem vindo :) <img width="40" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/285/beaming-face-with-smiling-eyes_1f601.png" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
 
