@@ -1,6 +1,6 @@
 # Olá! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" alt="Code" />
+<img align="right" width="40%" src="https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-deve-picture-id537331500?s=612x612" alt="Code" />
 
 ### Bem vindo à minha pagina!
 <p>
@@ -17,7 +17,7 @@
 - 🖥️ Estou me dedicando em estudar a linguagem java.
 
 
-### Onde me encontrar!
+### Contatos!
 
 </a>
 
