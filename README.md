@@ -10,9 +10,9 @@
 ### Sou estudante, atleta, desenvolvedor e tenho 16 anos!
 
 - 👨🏻‍💻Atualmente, estou trabalhando para melhorar minha experiência de programação!
-- 🥅 Objetivos para 2021: Aprender, Melhorar.
-- 👯 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
-- 🚵 Curiosidade: adoro jogar videogame.
+- 🚀 Objetivos para 2021: Aprender, Melhorar.
+- 📚 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
+- 👾 Curiosidade: adoro jogar videogame.
 
 
 ### Contatos!
