@@ -7,7 +7,7 @@
   <b>Brazil</b>.
 </p>
 
-### Sou estudante, atleta, desenvolvedor e tenho 16 anos!
+### Sobre mim!
 
 - 👨🏻‍💻Atualmente, estou trabalhando para melhorar minha experiência de programação!
 - 🚀 Objetivos para 2021: Aprender, Melhorar.
