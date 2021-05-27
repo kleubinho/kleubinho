@@ -1,6 +1,6 @@
-# Olá! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Bem vindo :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-deve-picture-id537331500?s=612x612" alt="Code" />
+<img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
 
 ### Bem vindo à minha pagina!
 <p>
@@ -14,7 +14,6 @@
 - 🥅 Objetivos para 2021: Aprender, Melhorar.
 - 👯 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
 - 🚵 Curiosidade: adoro jogar videogame.
-- 🖥️ Estou me dedicando em estudar a linguagem java.
 
 
 ### Contatos!
