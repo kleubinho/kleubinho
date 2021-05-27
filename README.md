@@ -4,7 +4,7 @@
 
 ### Bem vindo à minha pagina!
 <p>
-  Eu sou Kleber, desenvolvedor backend <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brasil" />
+  Eu sou o Kleber <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brasil" />
   <b>Brazil</b>.
 </p>
 
