@@ -1,4 +1,4 @@
-# Oi, Bem vindo! <img width="40" align="center" src="https://cdn.pixabay.com/photo/2017/01/31/08/42/comic-characters-2023311__340.png" alt="Sunglasses emoji" />
+# Oi, Bem vindo! <img width="40" align="right" src="https://cdn.pixabay.com/photo/2017/01/31/08/42/comic-characters-2023311__340.png" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
 
