@@ -9,7 +9,8 @@
 
 ### Sou estudante, atleta, desenvolvedor e tenho 16 anos!
 
-- �Technologist: Light Skin Tone on Apple iOS 14.6 Atualmente, estou trabalhando para melhorar minha experiência de programação!
+- ![image](https://user-images.githubusercontent.com/79463086/119889662-3fc09d80-bf0d-11eb-8558-901da438960f.png)
+ Atualmente, estou trabalhando para melhorar minha experiência de programação!
 - 🥅 Objetivos para 2021: Aprender, Melhorar.
 - 👯 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
 - 🚵 Curiosidade: adoro jogar videogame.
