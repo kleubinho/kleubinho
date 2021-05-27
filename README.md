@@ -9,9 +9,9 @@
 
 ### Sobre mim!
 
-- 👨🏻‍💻Atualmente, estou trabalhando para melhorar minha experiência de programação!
+- 👨🏻‍💻Atualmente, estou me dedicando para melhorar minha experiência em programação!
 - 🚀 Objetivos para 2021: Aprender, Melhorar.
-- 📚 Estou estudando e me dedicando aos estudos para que ano que vem consiga um emprego! 
+- 📚 Estou estudando e me aprofundando aos estudos para que ano que vem consiga um emprego! 
 - 👾 Curiosidade: adoro jogar videogame.
 
 
