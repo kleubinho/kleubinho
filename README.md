@@ -20,9 +20,11 @@
 </a>
 
 <a href="mailto:felix_kleber@yahoo.com.br">
-  <code><img alt="My e-mail" width="32" src="https://cdn.pixabay.com/photo/2017/06/25/14/40/yahoo-2440965_960_720.png" /></code>
+  <code><img alt="Meu e-mail" width="32" src="https://cdn.pixabay.com/photo/2017/06/25/14/40/yahoo-2440965_960_720.png" /></code>
 </a>
-<br>
+<a href="mailto:https://www.linkedin.com/in/kleber-henrique-2b170b213/">
+  <code><img alt="Meu linkedin" width="32" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861__340.png" /> </code>
+</a>
 
 ## Meu Development Stack
 
