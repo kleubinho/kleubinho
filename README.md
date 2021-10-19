@@ -3,7 +3,7 @@
 <img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
 
 <p>
-  Eu sou Kleber, tenho 17 anos <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brasil" />
+  Eu sou Kleber, tenho 17 anos
   <b>Brazil</b>.
 </p>
 
