@@ -4,7 +4,7 @@
 
 <p>
   Eu sou Kleber, tenho 17 anos
-  <b>Brazil</b>.
+  <b>🇧🇷</b>.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleubinho&color=yellow" alt="Profile views" /> </p>
 
@@ -39,10 +39,10 @@
 </a>
 
 <a href="mailto:felix_kleber@yahoo.com.br">
-  <code><img alt="Meu e-mail" width="32" src="https://cdn.pixabay.com/photo/2017/06/25/14/40/yahoo-2440965_960_720.png" /></code>
+  <img alt="Meu e-mail" width="150px"src="https://img.shields.io/badge/-Kleber%20Henrique-05122A?style=flat&logo=yahoo" />
 </a>
 <a href="https://www.linkedin.com/in/kleber-henrique-2b170b213/">
-  <code><img alt="Meu linkedin" width="32" src="https://cdn.pixabay.com/photo/2015/07/13/07/33/icons-842861__340.png" /> </code>
+  <img alt="Meu linkedin" width="150px" src="https://img.shields.io/badge/-Kleber%20Henrique-05122A?style=flat&logo=linkedin" />
 </a>
 
 
