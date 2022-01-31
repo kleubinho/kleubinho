@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻Atualmente, estou me dedicando para melhorar minha experiência em programação!
 - 🚀 Objetivos para 2021: Aprender, Melhorar.
-- 📚 Estou estudando e me aprofundando aos estudos para que ano que vem consiga um emprego! 
+- 📚 Estou trabalhando com Dev Front-End! 
 - 👾 Curiosidade: adoro jogar videogame e praticar esportes.
 
 ## 🛠 &nbsp;Tech Stack
