@@ -30,9 +30,9 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kleubinho&show_icons=true&theme=vision-friendly-dark" alt="Kleber's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleubinho&layout=compact&theme=vision-friendly-dark" alt="Kleber's most languages"/>
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=kleubinho&show_icons=true&theme=vision-friendly-dark" alt="Kleber's stats"/>
+<img width="418em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleubinho&layout=compact&theme=vision-friendly-dark" alt="Kleber's most languages"/>
 </p>
 
 
