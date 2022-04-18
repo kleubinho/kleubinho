@@ -3,13 +3,13 @@
 <img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
 
 <p>
-  Eu sou Kleber, tenho 17 anos
+  i'm Kleber Henrique, have 17y
   <b>🇧🇷</b>.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleubinho&color=yellow" alt="Profile views" /> </p>
 
 
-### Sobre mim!
+### About me!
 
 - 👨🏻‍💻Atualmente, estou me dedicando para melhorar minha experiência em programação!
 - 🚀 Objetivos para 2022: Aprender, Melhorar.
