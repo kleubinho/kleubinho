@@ -26,11 +26,15 @@
 ![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)&nbsp;
 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react&logoColor=4169E1)&nbsp;
+
 
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&nbsp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&nbsp)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 <br>
