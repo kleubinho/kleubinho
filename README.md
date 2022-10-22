@@ -19,11 +19,12 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)&nbsp;
+![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledComponents)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react&logoColor=4169E1)&nbsp;
@@ -33,6 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&nbsp)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 
