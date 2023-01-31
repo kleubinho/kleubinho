@@ -1,6 +1,6 @@
 # Oi, Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-<img align="right" width="40%" src="https://cdn.pixabay.com/photo/2016/11/19/22/52/coding-1841550__340.jpg" alt="Code" />
+<img align="right" width="40%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Code" />
 
 <p>
   Eu sou Kleber Henrique, tenho 18 anos
