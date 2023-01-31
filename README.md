@@ -12,7 +12,7 @@
 ### Sobre mim!
 
 - 👨🏻‍💻Atualmente, estou me dedicando para melhorar minha experiência em programação!
-- 🚀 Objetivos para 2022: Aprender, Melhorar.
+- 🚀 Objetivos para 2023: Aprender, Melhorar.
 - 📚 Estou trabalhando como Dev Front-End! 
 - 👾 Curiosidade: adoro jogar videogame e praticar esportes.
 
