@@ -18,22 +18,23 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)&nbsp;
-![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledComponents)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&)&nbsp;
+![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript)
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react&logoColor=4169E1)&nbsp;
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react&logoColor=4169E1)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=nextJs&logoColor=4169E1)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=4169E1)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=for-the-badge&logo=styledComponents)&nbsp;
+![Scss](https://img.shields.io/badge/-Scss-05122A?style=for-the-badge&logo=sass)&nbsp;
 
-
-![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&nbsp)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![BitBucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&nbsp)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=github&nbsp)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![BitBucket](https://img.shields.io/badge/-Bitbucket-05122A?style=for-the-badge&logo=bitbucket&nbsp)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 
@@ -52,10 +53,11 @@
 </a>
 
 <a href="mailto:felix_kleber@yahoo.com.br">
-  <img alt="Meu e-mail" width="150px"src="https://img.shields.io/badge/-Kleber%20Henrique-05122A?style=flat&logo=yahoo" />
+<img alt="E-mail Kleber Henrique" style="border-radius: 20px"  src="https://img.shields.io/badge/Yahoo-6001d2?style=for-the-badge&logo=yahoo&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/kleber-henrique-2b170b213/">
-  <img alt="Meu linkedin" width="150px" src="https://img.shields.io/badge/-Kleber%20Henrique-05122A?style=flat&logo=linkedin" />
+  <img alt="Linkedin Kleber Henrique" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
