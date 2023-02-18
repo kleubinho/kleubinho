@@ -31,10 +31,17 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=for-the-badge&logo=styledComponents)&nbsp;
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=for-the-badge&logo=sass)&nbsp;
 
+## 🛠 &nbsp;DevOps
+
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=for-the-badge&logo=github&nbsp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-Bitbucket-05122A?style=for-the-badge&logo=bitbucket&nbsp)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## 🛠 &nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insomnia)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=for-the-badge&logo=postman)&nbsp;
+
+
 
 
 
