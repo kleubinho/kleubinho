@@ -26,10 +26,12 @@
 ![typeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript)
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=for-the-badge&logo=react&logoColor=4169E1)&nbsp;
 
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=nextJs&logoColor=4169E1)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=4169E1)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=next.Js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=for-the-badge&logo=styledComponents)&nbsp;
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=for-the-badge&logo=sass)&nbsp;
+
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
 
 ## 🛠 &nbsp;DevOps
 
