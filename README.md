@@ -12,7 +12,7 @@
 ### Sobre mim!
 
 - 👨🏻‍💻Atualmente, estou me dedicando para melhorar minha experiência em programação!
-- 🚀 Objetivos para 2023: Evoluir minhas hardSkills com o código.
+- 🚀 Objetivos para 2025: Evoluir minhas hardSkills com o código.
 - 📚 Estou trabalhando como Dev Front-End! 
 - 👾 Curiosidade: adoro jogar videogame e praticar esportes.
 
